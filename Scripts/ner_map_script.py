@@ -11,12 +11,6 @@ ner_counts.columns = ner_counts.columns.str.strip()
 coordinates.columns = coordinates.columns.str.strip()
 
 # Rename columns in coordinates to match ner_counts and plotting requirements
-#coordinates = coordinates.rename(columns={
- #   "Name": "Place",
-  #  "Latitude": "latitude",
-   # "Longitude": "longitude"
-#})
-
 ner_counts = ner_counts.rename(columns={"name": "placename", "frequency": "ner_count"})
 coordinates = coordinates.rename(columns={"Name": "Place", "Latitude": "latitude", "Longitude": "longitude"})
 # Merge data on 'placename'
