@@ -2,8 +2,8 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-ner_counts = pd.read_csv("ner_counts.tsv", sep="\t")
-coordinates = pd.read_csv("gazetteers/NER_gazetteer.tsv", sep="\t")
+ner_counts = pd.read_csv("C:/Users/admin/Downloads/FASDH25-portfolio2/Scripts/ner_counts.tsv", sep="\t")
+coordinates = pd.read_csv("C:/Users/admin/Downloads/FASDH25-portfolio2/gazetteers/NER_gazetteer.tsv", sep="\t")
 
 
 # Clean column names
@@ -11,12 +11,14 @@ ner_counts.columns = ner_counts.columns.str.strip()
 coordinates.columns = coordinates.columns.str.strip()
 
 # Rename columns in coordinates to match ner_counts and plotting requirements
-coordinates = coordinates.rename(columns={
-    "Name": "Place",
-    "Latitude": "latitude",
-    "Longitude": "longitude"
-})
+#coordinates = coordinates.rename(columns={
+ #   "Name": "Place",
+  #  "Latitude": "latitude",
+   # "Longitude": "longitude"
+#})
 
+ner_counts = ner_counts.rename(columns={"name": "placename", "frequency": "ner_count"})
+coordinates = coordinates.rename(columns={"Name": "Place", "Latitude": "latitude", "Longitude": "longitude"})
 # Merge data on 'placename'
 data = pd.merge(ner_counts, coordinates, left_on="placename", right_on="Place")
 
