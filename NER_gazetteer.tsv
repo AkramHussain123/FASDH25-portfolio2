@@ -15,14 +15,14 @@ Tel Aviv	32.08088	34.78057
 Algeria	28	3
 Marrakesh	31.63416	-7.99994
 the Western Sahara	-33.21645	146.45597
-Morocco’s	31.7917  7.0926
+Morocco’s	NA	NA
 Maghreb	30	5
 Ukraine	49	32
 Saudi Arabia	25	45
 California	37.25022	-119.75126
 West Bank	19.38197	-81.39281
 Dena	28.44289	90.28327
-Israel’s	31.0461  34.8516
+Israel’s	NA	NA
 Oakland	37.80437	-122.2708
 the United States	34.31336	-79.63717
 South Africa	26.5	-81
@@ -34,7 +34,7 @@ Qatar	25.5	51.25
 Kuala Lumpur	3.1412	101.68653
 Malaysia	2.5	112.5
 Palestine	31.92157	35.20329
-Indonesia’s	 0.7893 113.9213
+Indonesia’s	NA	NA
 Jakarta	-6.21462	106.84513
 Johannesburg	-26.20227	28.04363
 London	51.50853	-0.12574
@@ -58,21 +58,21 @@ Iran	32	53
 Kerman	30.28321	57.07879
 Lebanon	33.83333	35.83333
 Bethlehem	40.62593	-75.37046
-Nairoukh	3.2667 35.5667
+Nairoukh	NA	NA
 China	35	105
 Italy	42.83333	12.83333
 Spain	40	-4
 Turkey	39	35
-Shawawra	31.5833 35.1500
+Shawawra	NA	NA
 The Hague	52.07667	4.29861
 South Africa’s	26.5	-81
 the Gaza Strip	-26.25	28
 Khan Younis	31.34018	34.30627
 Syria	35	38
-Mazzeh	33.4833 36.2500
+Mazzeh	NA	NA
 Damascus	33.5102	36.29128
 U.S.	39.76	-98.5
-Houthis’	16.0000 48.0000
+Houthis’	NA	NA
 the Red Sea	-20.03085	45.695
 the Bab-el-Mandeb Strait	31.24938	-97.53052
 the Gulf of Aden	-33.21645	146.45597
@@ -97,7 +97,7 @@ Tehran	35.69439	51.42151
 the Middle East	-10.42172	105.67912
 South Carolina	34.00043	-81.00009
 New York City	40.71427	-74.00597
-Gaza’s	31.3547 34.3088
+Gaza’s	NA	NA
 Gaza City	31.50161	34.46672
 Rafah	31.29722	34.24357
 Gaza Strip	31.50161	34.46672
@@ -138,7 +138,7 @@ Gretna	41.14083	-96.23974
 Louisiana	31.00047	-92.0004
 New Orleans	29.95465	-90.07507
 the West Bank	-10.42172	105.67912
-@MirandaCleland
+@MirandaCleland	NA	NA
 France	46	2
 the Strip	-34.43943	143.14742
 @majedalansari	NA	NA
@@ -180,20 +180,20 @@ the Mediterranean Sea	-20.5493	130.3472
 Ajaq	35.64005	48.84628
 Silwad	31.97625	35.2613
 Cairo	30.06263	31.24967
-Yemen’s	15.5527 48.5164
+Yemen’s	NA	NA
 Australia	-25	135
 Denmark	56	10
 New Zealand	-42	174
 South Korea	36.5	127.75
 Norway	62	10
-Hamas’s	31.5000 34.4667
+Hamas’s	NA	NA
 Yaroun	33.08028	35.4225
 Lebanon’s Nabatieh	NA	NA
-Yir’on	33.07 35.4497
+Yir’on	NA	NA
 Avivim	33.08892	35.47228
-Israel’s Goren	33.0167 35.2333
+Israel’s Goren	NA	NA
 Shatila	42.65879	45.15632
-Dahiyeh	33.8500 35.4833
+Dahiyeh	NA	NA
 DC	38.91706	-77.00025
 Doha	25.28545	51.53096
 Lisbon	38.71667	-9.13333
@@ -202,15 +202,15 @@ Walla	-2.85662	33.32102
 Somalia	6	48
 Yemen’s Red Sea	43.22368	-76.73856
 Gulf of Aden	12	48
-Yemen’s coast	15.300 47.9000
-Lebanon’s	33.8547 35.8623
+Yemen’s coast	NA	NA
+Lebanon’s	NA	NA
 Seychelles	-4.58333	55.66667
 Bab al-Mandeb strait	12.60416	43.33557
 North Africa	32.95337	9.97559
 Marib	15.6213	46.0111
 the Gaza strip	-26.25	28
 Gaza Strip’s	31.41667	34.33333
-Khreis’s	33.4500 36.3000
+Khreis’s	NA	NA
 Northern Gaza	54.77535	-105.64453
 Hong Kong	22.27832	114.17469
 the State of Palestine	37.00724	-75.98329
@@ -219,11 +219,11 @@ Bangladesh	24	90
 Comoros	-12.23333	44.44553
 The United Kingdom	57.27694	-133.65278
 Myanmar	21	96
-north📍#Gaza	31.5500 34.5000
+north📍#Gaza	NA	NA
 Erbil	36.19117	44.00943
 Pakistan’s Balochistan province	41.22825	33.15674
-Iran’s Sistan-Baluchestan province	27.52 60.5820
-Iran’s	32.4279 53.6880
+Iran’s Sistan-Baluchestan province	NA	NA
+Iran’s	NA	NA
 Afghanistan	33	66
 Rask	29.49114	57.18543
 Sistan-Baluchestan	28.5	60.5
@@ -247,7 +247,7 @@ Munich	48.13743	11.57549
 Haifa	32.81841	34.9885
 Sidon	33.55751	35.37148
 Salameh’s	NA	NA
-Beirut’s	33.8938 35.5018
+Beirut’s	NA	NA
 Gaza’s Deir el-Balah	22.59767	-12.56362
 al-Mughraqa	30	5
 al-Maghazi	30	5
@@ -258,11 +258,11 @@ Nur Shams	51.1801	71.44598
 Tulkarem	32.31156	35.0269
 Naqoura	33.11806	35.13972
 America	26.0173	-104.41406
-France’s	46.2 2.2137
+France’s	NA	NA
 El Arish	31.13159	33.79844
 Al Jazeera’s	14.6	33.35
 al-Mawasi	23.261	57.54
-Beirut’s Shatila	33.86 35.4950
+Beirut’s Shatila	NA	NA
 Al-Fukhari	31.29278	34.33061
 Zeitoun	34.06222	35.68528
 al-Fukhari	31.29278	34.33061
@@ -306,14 +306,14 @@ Melbourne, Australia	-37.814	144.96332
 Melbourne	-37.814	144.96332
 Sandridge Beach	-37.83931	144.91747
 the ZIM Ganges	57.27694	-133.65278
-Australia’s25.2 133.7751
+Australia’s	NA	NA
 Sydney	-33.86785	151.20732
 Brisbane	-27.46794	153.02809
 Rawaa’s	NA	NA
 the Middle East Eye	-25.58333	20.38333
 the Near East	-10.42172	105.67912
 Kyiv	50.45466	30.5238
-Houthi	16.0000 48.0000
+Houthi	NA	NA
 Aqaba	29.52667	35.00778
 the Marshall Islands	-20.03085	45.695
 Aden	12.77944	45.03667
@@ -366,7 +366,7 @@ The Gaza Strip	-26.25	28
 the Gaza Strip	36.11479	-115.17281
 Beit Lahiya	31.5464	34.49514
 El Amal City Hospital	32.893	0.54839
-Iraq’s	33.2232 43.6793
+Iraq’s	NA	NA
 Maroun El Ras	33.10381	35.4444
 Rmeish	NA	NA
 Miraj	16.8671	74.70146
@@ -512,12 +512,12 @@ Peru	-10	-75.25
 Colombia	4	-73.25
 South Sudan	7.5	30
 Swaziland	-26.5	31.5
-#RedSea	20.2 38.5126
-China’s	35.8617 104.1954
+#RedSea	NA	NA
+China’s	NA	NA
 Bern	46.94809	7.44744
 Zurich	47.36667	8.55
 Arura	9.8694	76.30498
-Beruit	33.89 35.5018
+Beruit	NA	NA
 Hezbollah’s	NA	NA
 Deir Qaddis	35.33588	40.14084
 MoTaz	NA	NA
@@ -594,7 +594,7 @@ Calves Hill	42.27426	-71.32284
 Daraj	33.24567	59.54541
 Ahmadiyyah Zawiya	NA	NA
 the Eastern Mediterranean	41.88445	-91.71073
-Gaza‘s 31.354 34.3088
+Gaza‘s	NA	NA
 @TomWhiteGaza	NA	NA
 Netivot	31.42305	34.58911
 Bab-el-Mandeb strait	12.60416	43.33557
