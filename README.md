@@ -66,7 +66,7 @@ On the downside, NER models can struggle with accuracy if not properly trained o
 
 ## Maps image PNG
 #### Regex generated Image PNG:
-![alt text(https://github.com/AkramHussain123/FASDH25-portfolio2/blob/main/Scripts/regex_map.png)] 
+![alt text(https://github.com/AkramHussain123/FASDH25-portfolio2/blob/main/Scripts/regex_map.png)]
 
 #### NER generated Image PNG: 
 
