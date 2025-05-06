@@ -15,14 +15,14 @@ Tel Aviv	32.08088	34.78057
 Algeria	28	3
 Marrakesh	31.63416	-7.99994
 the Western Sahara	-33.21645	146.45597
-Morocco’s	NA	NA
+Morocco’s	31.7917   7.0926
 Maghreb	30	5
 Ukraine	49	32
 Saudi Arabia	25	45
 California	37.25022	-119.75126
 West Bank	19.38197	-81.39281
 Dena	28.44289	90.28327
-Israel’s	NA	NA
+Israel’s	31.0461  34.8516
 Oakland	37.80437	-122.2708
 the United States	34.31336	-79.63717
 South Africa	26.5	-81
@@ -34,7 +34,7 @@ Qatar	25.5	51.25
 Kuala Lumpur	3.1412	101.68653
 Malaysia	2.5	112.5
 Palestine	31.92157	35.20329
-Indonesia’s	NA	NA
+Indonesia’s	 0.7893 113.9213
 Jakarta	-6.21462	106.84513
 Johannesburg	-26.20227	28.04363
 London	51.50853	-0.12574
@@ -63,13 +63,13 @@ China	35	105
 Italy	42.83333	12.83333
 Spain	40	-4
 Turkey	39	35
-Shawawra	NA	NA
+Shawawra	﻿31.69111  35.27222
 The Hague	52.07667	4.29861
 South Africa’s	26.5	-81
 the Gaza Strip	-26.25	28
 Khan Younis	31.34018	34.30627
 Syria	35	38
-Mazzeh	NA	NA
+Mazzeh	33.5014  36.2468
 Damascus	33.5102	36.29128
 U.S.	39.76	-98.5
 Houthis’	NA	NA
@@ -97,7 +97,7 @@ Tehran	35.69439	51.42151
 the Middle East	-10.42172	105.67912
 South Carolina	34.00043	-81.00009
 New York City	40.71427	-74.00597
-Gaza’s	NA	NA
+Gaza’s	31.5017     34.4668
 Gaza City	31.50161	34.46672
 Rafah	31.29722	34.24357
 Gaza Strip	31.50161	34.46672
@@ -202,8 +202,8 @@ Walla	-2.85662	33.32102
 Somalia	6	48
 Yemen’s Red Sea	43.22368	-76.73856
 Gulf of Aden	12	48
-Yemen’s coast	NA	NA
-Lebanon’s	NA	NA
+Yemen’s coast	12.8  45.0°
+Lebanon’s	33.8547  35.8623
 Seychelles	-4.58333	55.66667
 Bab al-Mandeb strait	12.60416	43.33557
 North Africa	32.95337	9.97559
@@ -219,11 +219,11 @@ Bangladesh	24	90
 Comoros	-12.23333	44.44553
 The United Kingdom	57.27694	-133.65278
 Myanmar	21	96
-north📍#Gaza	NA	NA
+north📍#Gaza	31.5417	 34.5196
 Erbil	36.19117	44.00943
 Pakistan’s Balochistan province	41.22825	33.15674
 Iran’s Sistan-Baluchestan province	NA	NA
-Iran’s	NA	NA
+Iran	32.4279	 53.6880
 Afghanistan	33	66
 Rask	29.49114	57.18543
 Sistan-Baluchestan	28.5	60.5
@@ -467,7 +467,7 @@ the Golan Heights	40.11286	-74.047
 Kanaker	40.22302	44.53986
 Sarit	35.47569	71.45229
 Aleppo	36.20124	37.16117
-Jordan’s	NA	NA
+Jordan’s	30.5852	 36.2384
 al-Tanf	30.05	39.6
 the Hashemite Kingdom of Jordan	25.7251	-80.24283
 the Jordan River	18.25706	-78.14275
@@ -603,7 +603,7 @@ Dead Sea	44.86777	-73.62391
 Eastern Mediterranean region	39.42657	41.23464
 al-Karama	26.22787	50.58565
 Paltel	32.08712	35.18388
-Jawwal	NA	NA
+Jawwal	31.9391	 5.2280
 Syria’s Golan Heights	36.28562	-92.26543
 Kurdistan	37	44
 Panjgur, Pakistan’s Balochistan province	NA	NA
